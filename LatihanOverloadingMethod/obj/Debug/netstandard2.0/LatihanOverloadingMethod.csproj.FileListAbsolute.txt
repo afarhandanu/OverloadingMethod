@@ -1,0 +1,9 @@
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\netstandard2.0\LatihanOverloadingMethod.deps.json
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\netstandard2.0\LatihanOverloadingMethod.dll
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\netstandard2.0\LatihanOverloadingMethod.pdb
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\netstandard2.0\LatihanOverloadingMethod.csprojAssemblyReference.cache
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\netstandard2.0\LatihanOverloadingMethod.AssemblyInfoInputs.cache
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\netstandard2.0\LatihanOverloadingMethod.AssemblyInfo.cs
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\netstandard2.0\LatihanOverloadingMethod.csproj.CoreCompileInputs.cache
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\netstandard2.0\LatihanOverloadingMethod.dll
+C:\Users\LabTTT\source\repos\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\netstandard2.0\LatihanOverloadingMethod.pdb

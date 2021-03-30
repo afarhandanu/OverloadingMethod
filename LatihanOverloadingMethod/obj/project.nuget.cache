@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7QLy2ZyynAM2kmH43slQbKLmDGgb2JjR/bBzIZrAkYshVieZNw+GilnIT1v8S/goHJHJvWQTMTsRnjCoPz/hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LabTTT\\source\\repos\\LatihanOverloadingMethod\\LatihanOverloadingMethod\\LatihanOverloadingMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LabTTT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LabTTT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
